@@ -1,6 +1,6 @@
 ## LA-Xenomai
 
-[For English](https://github.com/LA-Xenomai/.github/profile/README-en.md)
+[For English](https://github.com/LA-Xenomai/.github/blob/master/profile/README-en.md)
 
 本组织致力于 Xenomai 项目（一个开源的 Linux 硬实时扩展）到 LoongArch 平台的移植工作。
 
