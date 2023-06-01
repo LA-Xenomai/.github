@@ -8,7 +8,7 @@
 
 ### 文档
 
-- [.github](https://github.com/LA-Xenomai/.github): 组织简介与文档
+- [.github](https://github.com/LA-Xenomai/.github): 组织简介
 
 ### Xenomai 3
 

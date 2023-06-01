@@ -6,7 +6,7 @@ This organization aims at porting Xenomai project, an open-source hard real-time
 
 ### Documents
 
-- [.github](https://github.com/LA-Xenomai/.github): Organization Profile and Documents
+- [.github](https://github.com/LA-Xenomai/.github): Organization Profile
 
 ### Xenomai 3
 
