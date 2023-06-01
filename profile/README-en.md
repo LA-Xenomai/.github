@@ -7,6 +7,7 @@ This organization aims at porting Xenomai project, an open-source hard real-time
 ### Documents
 
 - [.github](https://github.com/LA-Xenomai/.github): Organization Profile
+- [doc](https://github.com/LA-Xenomai/doc)：Documents Related to Xenomai and LoongArch Platforms
 
 ### Xenomai 3
 
