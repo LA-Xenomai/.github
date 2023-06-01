@@ -11,7 +11,7 @@ This organization aims at porting Xenomai project, an open-source hard real-time
 
 ### Xenomai 3
 
-- [ipipe-la](https://github.com/LA-Xenomai/xenomai-la): LoongArch Platform Support(Loongson 3A5000 and 7A2000 board) for I-pipe based on Linux 4.19.190
+- [ipipe-la](https://github.com/LA-Xenomai/ipipe-la): LoongArch Platform Support(Loongson 3A5000 and 7A2000 board) for I-pipe based on Linux 4.19.190
 - [xenomai-la](https://github.com/LA-Xenomai/xenomai-la): LoongArch Platform(Loongson 3A5000 and 7A2000 board) Support for Xenomai v3.2.1
 
 ### Xenomai 4
